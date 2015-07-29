@@ -1,0 +1,25 @@
+{
+  "name": "ionic-inappbilling",
+  "version": "0.0.1",
+  "authors": [
+    "stefanoschrs <stefanoschrs@hotmail.com>"
+  ],
+  "description": "Ionic wrapper for inappbilling",
+  "main": "ionic-inappbilling.js",
+  "keywords": [
+    "ionic",
+    "inappbilling"
+  ],
+  "license": "MIT",
+  "homepage": "https://stefanoschrs.github.io/ionic-inappbilling/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.0.6"
+  }
+}
